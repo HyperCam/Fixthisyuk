@@ -22,7 +22,7 @@ int main(){
                 cout<<"FizzBuzz";
               }
           }
-          {sprintf(buffer, "%f",number);
+         
 }
 return 0;
   }
